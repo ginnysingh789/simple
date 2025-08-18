@@ -1,7 +1,7 @@
 CHANGELOG
 
 Aug  8, 2025
-- feat: integrate OAuth2.0 for third-party login options
+- feat: integrate payment gateway API for checkout process
 - Automated contribution streak maintenance
 - Generated at 12:25:02 PM
 - Commit style: mixed
