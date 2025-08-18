@@ -1,9 +1,9 @@
 CHANGELOG
 
-Aug 17, 2025
-- Add error handling to payment gateway integration
+Aug  8, 2025
+- feat: integrate OAuth2.0 for third-party login options
 - Automated contribution streak maintenance
-- Generated at 9:00:30 AM
+- Generated at 12:25:02 PM
 - Commit style: mixed
 
 This changelog is automatically updated to maintain GitHub activity.
