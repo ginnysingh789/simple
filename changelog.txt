@@ -1,7 +1,7 @@
 CHANGELOG
 
 Aug  8, 2025
-- Refactor logging module to improve error traceability and consistency across services
+- fix: handle edge case in date parsing logic for event scheduler
 - Automated contribution streak maintenance
 - Generated at 12:25:02 PM
 - Commit style: mixed
