@@ -1,7 +1,7 @@
 CHANGELOG
 
 Aug  8, 2025
-- fix: handle edge case in date parsing for leap years
+- Fix typo in error message for login failure logging
 - Automated contribution streak maintenance
 - Generated at 12:25:02 PM
 - Commit style: mixed
