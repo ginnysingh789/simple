@@ -1,9 +1,9 @@
 CHANGELOG
 
-Aug 22, 2025
-- Improve error handling in payment gateway integration
+Aug  8, 2025
+- fix: handle edge case in date parsing for leap years
 - Automated contribution streak maintenance
-- Generated at 9:00:32 AM
+- Generated at 12:25:02 PM
 - Commit style: mixed
 
 This changelog is automatically updated to maintain GitHub activity.
