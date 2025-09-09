@@ -1,9 +1,9 @@
 CHANGELOG
 
-Sep  8, 2025
-- fix: correct logic in date parser to handle leap years correctly
+Sep  9, 2025
+- fix: handle null pointer exception in user service during login process
 - Automated contribution streak maintenance
-- Generated at 9:00:56 AM
+- Generated at 9:01:01 AM
 - Commit style: mixed
 
 This changelog is automatically updated to maintain GitHub activity.
